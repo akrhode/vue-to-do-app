@@ -1,6 +1,6 @@
 <template>
   <div
-    class="text-white bg-gray-600 w-2/4 max-w-2xl m-auto mt-12 border-2 border-black"
+    class="text-white bg-gray-600 w-2/4 max-w-2xl m-auto mt-10 border-2 border-black"
   >
     <div class="text-center border-b-2 border-black py-4">
       <h1 class="text-3xl py-4">To Do App</h1>
